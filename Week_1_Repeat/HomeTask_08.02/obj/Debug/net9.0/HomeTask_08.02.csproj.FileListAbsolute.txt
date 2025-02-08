@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\bin\Debug\net9.0\HomeTask_08.02.exe
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\bin\Debug\net9.0\HomeTask_08.02.deps.json
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\bin\Debug\net9.0\HomeTask_08.02.runtimeconfig.json
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\bin\Debug\net9.0\HomeTask_08.02.dll
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\bin\Debug\net9.0\HomeTask_08.02.pdb
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\obj\Debug\net9.0\HomeTask_08.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\obj\Debug\net9.0\HomeTask_08.02.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\obj\Debug\net9.0\HomeTask_08.02.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\obj\Debug\net9.0\HomeTask_08.02.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\obj\Debug\net9.0\HomeTask_08.02.sourcelink.json
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\obj\Debug\net9.0\HomeTask_08.02.dll
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\obj\Debug\net9.0\refint\HomeTask_08.02.dll
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\obj\Debug\net9.0\HomeTask_08.02.pdb
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\obj\Debug\net9.0\HomeTask_08.02.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\HomeTask_08.02\obj\Debug\net9.0\ref\HomeTask_08.02.dll

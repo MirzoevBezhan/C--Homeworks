@@ -1,6 +1,6 @@
 ﻿///////////first 
 
-// List<int> ints = new List<int>(){1,2,3,4,5,6};
+// List<int> ints = new List<int>(){1,2,3};
 
 //  int GetSum(List<int> ints,int i=0,int sum=0){
 //     if (i==ints.Count)
@@ -13,63 +13,63 @@
 
 //////////task 2 
 
-// int GetSum(int num,int ind=0)
+// int PrintNaturalNums(int num,int ind=0)
 // {
 //     if (ind == num)
 //     {
 //         return num;
 //     }
 //     System.Console.Write(ind + " ");
-//     return GetSum(num,ind+1);
+//     return PrintNaturalNums(num,ind+1);
 // }
 
-// System.Console.Write(GetSum(20));
+// System.Console.Write(PrintNaturalNums(20));
 
 //////////////task 3 
 
 // using System.Diagnostics;
-// int GetSum(int num, int ind = 0, int sum = 0)
+// int SumOfNumsToN(int num, int ind = 0, int sum = 0)
 // {
 //     if (ind == num+1)
 //     {
-//         return sum;
+//         return sum; 
 //     }
-//     return GetSum(num, ind + 1, sum+=ind);
+//     return SumOfNumsToN(num, ind + 1, sum+=ind);
 // }
 
-// System.Console.Write(GetSum(4));
+// System.Console.Write(SumOfNumsToN(4));
 
 ///////////task 4
 
-// int GetSum(int num)
+// int CountNumsInNums(int num)
 // {
 //     if (num == 0)
 //     {
 //         return 0;
 //     }
 //     int ind = 1;
-//     return ind + GetSum(num / 10);
+//     return ind + CountNumsInNums(num / 10);
 // }
 
-// System.Console.Write(GetSum(450));
+// System.Console.Write(CountNumsInNums(450));
 
 //////////task 5
 
-// int GetSum(int num)
+// int SumOfNumsInN(int num)
 // {
 //     if (num == 0)
 //     {
 //         return 0;
 //     }
 //     int ind = num%10;
-//     return ind + GetSum(num / 10);
+//     return ind + SumOfNumsInN(num / 10);
 // }
 
-// System.Console.Write(GetSum(450));
+// System.Console.Write(SumOfNumsInN(450));
 
 //////////task 6
 
-// int GetSum(int [] ints,int index = 0,int max = int.MinValue)
+// int Max(int [] ints,int index = 0,int max = int.MinValue)
 // {
 //     if (index == ints.Length)
 //     {
@@ -79,11 +79,11 @@
 //     {
 //         max=ints[index];
 //     }
-//     return GetSum(ints,index+1,max);
+//     return Max(ints,index+1,max);
 // }
 
 // int []arr = new int []{1,3,5,32,2};
-// System.Console.Write(GetSum(arr));
+// System.Console.Write(Max(arr));
 
 ///////////task 7
 
@@ -104,14 +104,14 @@
 
 ///////////task 8
 
-// int GetSum(int num)
+// int Factorial(int num)
 // {
 //     if (num == 0)
 //     {
 //         return 1;
 //     }
-//     return num * GetSum(num-1);
+//     return num * Factorial(num-1);
 // }
 
 // int num = 5;
-// System.Console.Write(GetSum(num));
+// System.Console.Write(Factorial(num));
