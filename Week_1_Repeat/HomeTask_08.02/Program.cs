@@ -42,7 +42,7 @@
 
 Counter counter = new Counter(2);
 counter.Decrease();
-counter.Decrease(2);
+counter.Decrease(2);          
 counter.Increase(2);
 counter.Increase(2);
 counter.Show();
