@@ -6,7 +6,7 @@ public class Student : Person
     { }
     private int NumCourse = 0;
     private string[] Strings = { };
-    private int[] Grades = { };
+    private int[] Grades = {  };
 
     public void AddCourseGrade(string course, int grades)
     {

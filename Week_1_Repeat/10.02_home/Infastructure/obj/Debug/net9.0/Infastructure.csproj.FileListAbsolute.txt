@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\bin\Debug\net9.0\Infastructure.deps.json
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\bin\Debug\net9.0\Infastructure.dll
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\bin\Debug\net9.0\Infastructure.pdb
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\obj\Debug\net9.0\Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\obj\Debug\net9.0\Infastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\obj\Debug\net9.0\Infastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\obj\Debug\net9.0\Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\obj\Debug\net9.0\Infastructure.sourcelink.json
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\obj\Debug\net9.0\Infastructure.dll
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\obj\Debug\net9.0\refint\Infastructure.dll
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\obj\Debug\net9.0\Infastructure.pdb
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\10.02_home\Infastructure\obj\Debug\net9.0\ref\Infastructure.dll
