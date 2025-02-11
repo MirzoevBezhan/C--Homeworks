@@ -4,15 +4,18 @@ public class Order
 {
     public string OrderId { get; set; }
     public Customer customer { get; set; }
-    public List<Order> OrderedItems { get; set; }
-    public double TotalAmount { get; set; }
+    public Dictionary<Product,int> OrderedItems { get; set; }
+    public decimal TotalAmount { get; set; }
     public DateTime OrderDate { get; set; }
-    public OrderStatus orderStatus;
+    public OrderStatus Status;
 
-    public void UpdateStatus(OrderStatus status)
+    public Order(Customer customer, Dictionary<Product,int> order,decimal TotalAmount)
     {
-      orderStatus=status;
-      System.Console.WriteLine("Changed");
+      OrderId=Guid.NewGuid().ToString();
+         this.customer=customer;
+         this.OrderedItems=order;
+         this.TotalAmount=TotalAmount;
+         this.Status=OrderStatus.Placed;
+         OrderDate=DateTime.Now;
     }
-    
 }
