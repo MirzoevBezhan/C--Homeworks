@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\bin\Debug\net9.0\Ifrastructure.deps.json
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\bin\Debug\net9.0\Ifrastructure.dll
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\bin\Debug\net9.0\Ifrastructure.pdb
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\obj\Debug\net9.0\Ifrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\obj\Debug\net9.0\Ifrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\obj\Debug\net9.0\Ifrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\obj\Debug\net9.0\Ifrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\obj\Debug\net9.0\Ifrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\obj\Debug\net9.0\Ifrastructure.sourcelink.json
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\obj\Debug\net9.0\Ifrastru.BAD5DA9D.Up2Date
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\obj\Debug\net9.0\Ifrastructure.dll
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\obj\Debug\net9.0\refint\Ifrastructure.dll
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\obj\Debug\net9.0\Ifrastructure.pdb
+C:\Users\DELL\Desktop\C#home\Week_1_Repeat\Fitness\Ifrastructure\obj\Debug\net9.0\ref\Ifrastructure.dll
