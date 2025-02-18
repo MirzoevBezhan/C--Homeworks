@@ -9,7 +9,12 @@ public abstract class Person
     public int Age { get; set; }
     public Person(string name, int age)
     {
+
         this.ID = Guid.NewGuid().ToString();
+        if (name=="")
+        {
+            throw new Nullexemption();
+        }
         this.Name = name;
         this.Age = age;
     }

@@ -2,7 +2,6 @@
 using Infastructure;
 while (true)
 {
-    // MessageHelper.ShowColoredMessage("=== MyConsoleNet ===", ConsoleColor.Cyan);
     Console.WriteLine("1. Registration");
     Console.WriteLine("2. Login");
     Console.WriteLine("3. Send Message");
